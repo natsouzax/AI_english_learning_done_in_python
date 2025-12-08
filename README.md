@@ -22,10 +22,6 @@ All in **real-time** and fully interactive!
 
 ---
 
-## 🎴 Demo
-
-![Flashcard Flip Demo](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)  
-*Interactive 3D flashcard flipping effect*
 
 ---
 
