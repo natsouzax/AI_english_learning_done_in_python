@@ -106,7 +106,6 @@ This project was developed collaboratively as part of an academic initiative.
 
 **Core Contributors:**
 - Natan Oliveira  
-- Estção  
 - Carlos Daniel  
 - Heitor Pereira  
 - Lucas Lima  
